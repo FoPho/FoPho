@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Cybersecurity.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
--           Cell: 6825972489
 -           Email: pho.johnny@yahoo.com
 
 <!---
